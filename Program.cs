@@ -10,5 +10,7 @@ class HelloWorld
         AreaOfCircle.Area();
         ArithmeticOperations.Operation();
         AverageOfDecimalNumbers.Average();
+        ConvertStringToInt.Convert();
+        GetUserNameAndAge.GetNameAndAge();
     }
 }
