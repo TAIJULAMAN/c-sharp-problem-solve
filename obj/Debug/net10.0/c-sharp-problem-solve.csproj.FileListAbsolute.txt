@@ -12,3 +12,4 @@ C:\Projects\mine\c-sharp-problem-solve\obj\Debug\net10.0\refint\c-sharp-problem-
 C:\Projects\mine\c-sharp-problem-solve\obj\Debug\net10.0\c-sharp-problem-solve.pdb
 C:\Projects\mine\c-sharp-problem-solve\obj\Debug\net10.0\c-sharp-problem-solve.genruntimeconfig.cache
 C:\Projects\mine\c-sharp-problem-solve\obj\Debug\net10.0\ref\c-sharp-problem-solve.dll
+C:\Projects\mine\c-sharp-problem-solve\obj\Debug\net10.0\c-sharp-problem-solve.sourcelink.json
